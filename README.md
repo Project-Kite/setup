@@ -1,0 +1,2 @@
+# setup
+The setup page
